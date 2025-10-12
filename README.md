@@ -1,8 +1,24 @@
-This project explores the Titanic dataset to understand passenger demographics, survival rates, and patterns in the data.
-It includes data cleaning, visualization, and exploratory analysis.
+Performed data cleaning and preprocessing
 
-Tech Used
+Conducted exploratory data analysis (EDA) using Python libraries (Pandas, Matplotlib, Seaborn, Plotly)
 
-Python, Pandas, NumPy
+🛠️ Tools & Libraries
 
-Matplotlib, Seaborn,Plotly
+Python
+
+Pandas, NumPy (data manipulation)
+
+Matplotlib, Seaborn, Plotly (visualization)
+
+🔑 Key Insights
+
+Females had a significantly higher survival rate than males.
+
+First-class passengers were more likely to survive compared to other classes.
+
+Younger passengers (children) had higher chances of survival.
+
+
+🚀 Next Steps
+
+Apply Machine Learning models to predict survival (Logistic Regression, Random Forest, etc.).
